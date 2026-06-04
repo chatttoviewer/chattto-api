@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "chattto-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b61f02c2-38d0-4585-b114-34e79812f864",
+			"database_name": "chattto-api-viewer"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
